@@ -1,16 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá!+Sou+Suellen+Araújo;Estudante+Bach.Sistema+de+informação;Facinada+por+Tecnologia+e+Inovação;Bem-vindo+ao+meu+perfil+do+GitHub!"
+    alt="Typing SVG"
+  />
+</p>
 
-<!--
-**SuellenDev/SuellenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Sobre mim
+- 🌱 Atualmente estudando: **Linguagem C, NFC, Desenvolvimento de jogos**  
+- 💼 Trabalhando em: **PCM - Bracell Papéis**  
+- 🎯 Objetivo: **Criar soluções que simplifiquem a vida das pessoas**  
+- 📫 Contato: [suellenaraujocosta@gmail.com](suellenaraujocosta@gmail.com)  
+- ⚡ Curiosidade: Amo escrever poesia, academia e arco e flechas.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,postgresql,mongodb,git,github,docker,linux,vscode&perline=8" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SUELLENDEV&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SUELLENDEV&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUELLENDEV&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEULINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SEUUSUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/SEUTWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/SEUINSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Citação Favorita
+
+> "O código é como o humor. Quando você precisa explicá-lo, ele não é tão bom assim." — *Cory House*
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+⭐ **Se gostou do perfil, não esqueça de dar uma estrela nos repositórios!** ⭐
