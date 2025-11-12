@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 Sobre mim
 - 🌱 Atualmente estudando: **Linguagem C, NFC, Desenvolvimento de jogos**  
-- 💼 Trabalhando em: **PCM - Bracell Papéis**  
+- 💼 Trabalhando: **PCM - Bracell Papéis**  
 - 🎯 Objetivo: **Criar soluções que simplifiquem a vida das pessoas**  
 - 📫 Contato: [suellenaraujocosta@gmail.com](suellenaraujocosta@gmail.com)  
 - ⚡ Curiosidade: Amo escrever poesia, academia e arco e flechas.
