@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-- 🌱 Atualmente estudando: **Linguagem C, NFC, Desenvolvimento de jogos**  
+- 🌱 Atualmente estudando: **Linguagem C, Zotero, LaTeX, Mendelay, Desenvolvimento de jogos**  
 - 💼 Trabalhando: **PCM - Bracell Papéis**  
 - 🎯 Objetivo: **Criar soluções que simplifiquem a vida das pessoas**  
 - 📫 Contato: [suellenaraujocosta@gmail.com](suellenaraujocosta@gmail.com)  
