@@ -9,8 +9,8 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-- 🌱 Atualmente estudando: **Linguagem C, Zotero, LaTeX, Mendelay, Desenvolvimento de jogos**  
-- 💼 Trabalhando: **PCM - Bracell Papéis**  
+- 🌱 Atualmente estudando: **Linguagem Java, Liderança TI, Redes de computadores, SPDATA**  
+- 💼 Trabalhando: **Estágiaria TI - HIPS**  
 - 🎯 Objetivo: **Criar soluções que simplifiquem a vida das pessoas**  
 - 📫 Contato: [suellenaraujocosta@gmail.com](suellenaraujocosta@gmail.com)  
 - ⚡ Curiosidade: Amo escrever poesia, academia e arco e flechas.
